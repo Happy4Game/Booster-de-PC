@@ -8,3 +8,19 @@ C:\Users\dufeu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Booster 
 C:\Users\dufeu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BoosterDePC.Properties.Resources.resources
 C:\Users\dufeu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Booster de PC.exe
 C:\Users\dufeu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Booster de PC.pdb
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\bin\Debug\Booster de PC.exe.config
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\bin\Debug\Booster de PC.exe
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\bin\Debug\Booster de PC.pdb
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\bin\Debug\DiscordRPC.dll
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\bin\Debug\DiscordRPC.pdb
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\bin\Debug\DiscordRPC.xml
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\obj\Debug\BoosterDePC.Properties.Resources.resources
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\obj\Debug\Booster de PC.exe
+C:\Users\dufeu\source\repos\Booster-de-PC\WindowsFormsApp1\obj\Debug\Booster de PC.pdb

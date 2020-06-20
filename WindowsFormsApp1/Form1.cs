@@ -63,17 +63,7 @@ namespace WindowsFormsApp1
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            if (isExplorer == false)
-            {
-                if (MessageBox.Show("Êtes vous sur de fermer cette fenêtre ?", "Exit", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
-                {
-                    this.Close();
-                }
-            }
-            else
-            {
-                this.Close();
-            }
+
         }
         int mouseX = 0, mouseY = 0;
         bool isClicked;
@@ -91,6 +81,21 @@ namespace WindowsFormsApp1
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (isExplorer == false)
+            {
+                if (MessageBox.Show("Êtes vous sur de fermer cette fenêtre ?", "Exit", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No)
+                {
+                    e.Cancel = true;
+                }
+            }
+            else
+            {
+                
+            }
         }
 
         private void panel1_MouseDown(object sender, MouseEventArgs e)
